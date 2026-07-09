@@ -1,0 +1,2 @@
+127.0.0.1 httpsdns.baidu.com
+127.0.0.1 httpdns.baidubce.com

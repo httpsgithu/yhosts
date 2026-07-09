@@ -1,0 +1,4 @@
+#QQ
+127.0.0.1 rmonitor.qq.com
+127.0.0.1 rdelivery.qq.com
+127.0.0.1 log.tbs.qq.com
